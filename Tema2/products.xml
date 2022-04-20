@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produse>
+    <produs>
+        <disponibilitate>false</disponibilitate>
+        <nume>Plantusin</nume>
+        <producator>PharmaR</producator>
+        <id>15</id>
+        <pret>16.55</pret>
+        <cantitate>50</cantitate>
+        <valabilitate>2022-05-05</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Paracetamol</nume>
+        <producator>PharmaRo</producator>
+        <id>50</id>
+        <pret>15.55</pret>
+        <cantitate>20</cantitate>
+        <valabilitate>2022-02-02</valabilitate>
+    </produs>
+</produse>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produse>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Brufen</nume>
+        <producator>DistrMed</producator>
+        <id>1</id>
+        <pret>15.99</pret>
+        <cantitate>20</cantitate>
+        <valabilitate>2024-03-03</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>false</disponibilitate>
+        <nume>Paracetamol</nume>
+        <producator>MedSan</producator>
+        <id>2</id>
+        <pret>14.05</pret>
+        <cantitate>25</cantitate>
+        <valabilitate>2026-01-03</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>true</disponibilitate>
+        <nume>Test Covid </nume>
+        <producator>Pfizer</producator>
+        <id>12</id>
+        <pret>12.99</pret>
+        <cantitate>10</cantitate>
+        <valabilitate>2023-01-02</valabilitate>
+    </produs>
+    <produs>
+        <disponibilitate>false</disponibilitate>
+        <nume>Plantusin</nume>
+        <producator>PharmaR</producator>
+        <id>15</id>
+        <pret>16.55</pret>
+        <cantitate>50</cantitate>
+        <valabilitate>2022-05-05</valabilitate>
+    </produs>
+</produse>

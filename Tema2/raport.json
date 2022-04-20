@@ -1,0 +1,38 @@
+[
+  {
+    "producator": "DistrMed",
+    "id": 1,
+    "pret": 15.99,
+    "cantitate": 20,
+    "valabilitate": "2024-03-03",
+    "nume": "Brufen",
+    "disponibilitate": true
+  },
+  {
+    "producator": "MedSan",
+    "id": 2,
+    "pret": 14.05,
+    "cantitate": 25,
+    "valabilitate": "2026-01-03",
+    "nume": "Paracetamol",
+    "disponibilitate": false
+  },
+  {
+    "producator": "Pfizer",
+    "id": 12,
+    "pret": 12.99,
+    "cantitate": 10,
+    "valabilitate": "2023-01-02",
+    "nume": "Test Covid ",
+    "disponibilitate": true
+  },
+  {
+    "producator": "PharmaR",
+    "id": 15,
+    "pret": 16.55,
+    "cantitate": 50,
+    "valabilitate": "2022-05-05",
+    "nume": "Plantusin",
+    "disponibilitate": false
+  }
+]
